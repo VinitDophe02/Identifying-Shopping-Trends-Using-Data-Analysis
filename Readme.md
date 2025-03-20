@@ -22,7 +22,8 @@ The insights gained are valuable for business decision-making and consumer behav
 ## 🚀 How to Run
 1. 📥 **Clone the repository**.
    ```bash
-   git clone https://github.com/Shubham-Tambei9/Identifying-Shopping-Trends-Using-Data-Analysis.git
+   git clone https://github.com/VinitDophe02/Identifying-Shopping-Trends-Using-Data-Analysis.git
+   
 3. ⚙️ **Install the required dependencies**.
    ```bash
    !pip install WordCloud
